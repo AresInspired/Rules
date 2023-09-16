@@ -1,1 +1,7 @@
+# > Blizzard
 HOST-KEYWORD,battle,Battle
+USER-AGENT,hearthstone*,Battle
+HOST,cdp.cloud.unity3d.com,Battle
+HOST-SUFFIX,battle.net,Battle
+HOST-SUFFIX,battlenet.com,Battle
+HOST-SUFFIX,blizzard.com,Battle
