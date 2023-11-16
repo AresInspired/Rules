@@ -1,4 +1,4 @@
 # > AI-Bot
 HOST-SUFFIX,nova-oss.com,AI-Bot
 HOST,chat.novaapp.ai,AI-Bot
-HOST,openai.com,AI-Bot
+HOST-SUFFIX,openai.com,AI-Bot
